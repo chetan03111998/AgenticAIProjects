@@ -12,7 +12,7 @@ Idea Generator: Creative AI-powered suggestion/brainstorming tool.
 Prompt Playground: Tool for experimenting and debugging various prompt strategies.
 ## Getting Started
 Clone the repository
-git clone https://github.com/yourusername/AgenticAIProjects.git
+git clone [https://github.com/yourusername/AgenticAIProjects.git](https://github.com/chetan03111998/AgenticAIProjects.git)
 cd AgenticAIProjects
 Copy
 Setup your environment
